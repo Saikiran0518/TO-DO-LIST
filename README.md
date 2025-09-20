@@ -106,7 +106,7 @@ todo-app/
 
 ## 📌 Submission  
 
-👉 **GitHub  repository  link containing the project:**  
+👉 **GitHub  repository  link containing the project:**
 (https://github.com/Saikiran0518/TO-DO-LIST)
 
  
